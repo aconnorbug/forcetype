@@ -1,0 +1,5 @@
+example = String;
+example2 = Number;
+example3 = Optional<String>;
+exampel4 = Array<Number>;
+example5 = Optional<Array<String>>:["Hello", "world!"];
